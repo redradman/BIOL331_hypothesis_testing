@@ -1,4 +1,4 @@
-wk,treatment,egg_label,alive,egg_code,hh_Stage,embryo_area_mm2,eye_diameter_mm,bump_to_beak_length_mm,embryo_length_mm,pre_exp_egg_weight,post-exp-egg-weight,embryo_weight
+wk,treatment,egg_label,alive,egg_code,hh_Stage,embryo_area_mm2,eye_diameter_mm,bump_to_beak_length_mm,embryo_length_mm,pre_exp_egg_weight,post_exp_egg_weight,embryo_weight
 1,0,1A,0,1-1A,n/a,n/a,n/a,n/a,n/a,n/a,57.67,n/a
 1,0,1B,1,1-1B,29,143.374,5.335,11.31,27.179,n/a,54.06,0.81
 1,0,1C,1,1-1C,29,154.968,5.287,11.873,26.491,n/a,51.63,0.91
