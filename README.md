@@ -1,1 +1,45 @@
 # BIOL331_hypothesis_testing
+
+## Statistical tests conducted by column: 
+- [x]  *embryo_area_mm2*
+	- [x] Normal distribution test: 
+	- [x] ANOVA test: NOT-signif
+	- [x] t.test: NOT-signif
+	- [x] wilcox tesmt: NOT-signif
+	- [x] Kolmogorov And Smirnov Test: NOT-signif
+	- [x] Fisher's test: NOT-signif
+- [x] *eye_diameter_mm*	
+	- [x] Normal distribution test
+	- [x] ANOVA test
+	- [x] t.test
+	- [x] wilcox test
+	- [x] Kolmogorov And Smirnov Test
+	- [x] Fisher's test
+- [x] *bump_to_beak_length_mm*	
+	- [x] Normal distribution test
+	- [x] ANOVA test
+	- [x] t.test
+	- [x] wilcox test
+	- [x] Kolmogorov And Smirnov Test
+	- [x] Fisher's test
+- [x] *embryo_weight*
+	- [x] Normal distribution test
+	- [x] ANOVA test:
+	- [x] t.test:  **SIGNIF**
+	- [x] wilcox test: NOT-SIGNIF
+	- [x] Kolmogorov And Smirnov Test
+	- [x] Fisher's test
+- [x] *post-exp-egg-weight*	
+	- [x] Normal distribution test
+	- [x] ANOVA test
+	- [x] t.test
+	- [x] wilcox test
+	- [x] Kolmogorov And Smirnov Test
+	- [x] Fisher's test
+- [x] *embryo_length_mm*	
+	- [x] Normal distribution test
+	- [x] ANOVA test
+	- [x] t.test
+	- [x] wilcox test
+	- [x] Kolmogorov And Smirnov Test
+	- [x] Fisher's test
